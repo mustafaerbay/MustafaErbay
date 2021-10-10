@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaerbay&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaerbay" /> </p>
 
-- 🔭 I’m currently working on [Mern Stack](https://github.com/mustafaerbay/mern_stack_project)
+- 🔭 I’m currently working on [mynewtool](https://github.com/mustafaerbay/mynewtool) :)
 
 - 🌱 I’m currently learning **Go,React**
 
