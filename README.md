@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [mynewtool](https://github.com/mustafaerbay/mynewtool) :)
 
-- 🌱 I’m currently learning **Go,React**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mustafaerbay](https://github.com/mustafaerbay)
 
