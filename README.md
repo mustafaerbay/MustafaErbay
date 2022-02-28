@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaerbay&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaerbay" /> </p>
 
-- 🔭 I’m currently working on [mynewtool](https://github.com/mustafaerbay/mynewtool) :)
+- 🔭 I’m currently working on [face_demo](https://github.com/mustafaerbay/face_demo) :)
 
 - 🌱 I’m currently learning **Go**
 
