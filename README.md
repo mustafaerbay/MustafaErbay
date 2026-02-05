@@ -22,7 +22,7 @@
   
   
   <br>
-  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafaerbay&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustafaerbay&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mustafaerbay&theme=default)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafaerbay&theme=default&utcOffset=8)
