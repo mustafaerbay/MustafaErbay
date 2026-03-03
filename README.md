@@ -3,8 +3,44 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaerbay&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaerbay" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/mustafaerbay/MustafaErbay/blob/main/docker_original_wordmark_logo_icon_146557.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://github.com/mustafaerbay/MustafaErbay/blob/main/file_type_nginx_icon_130305.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<!-- <h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mustafaerbay/MustafaErbay/main/docker_original_wordmark_logo_icon_146557.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/mustafaerbay/MustafaErbay/main/file_type_nginx_icon_130305.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p> -->
+
+<h3 align="left">AWS Certifications:</h3>
+<p align="left">
+  <a href="https://www.credly.com/badges/7b1a9d99-6008-400b-aeb0-35b7e7ac9f3a" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer – Professional" width="110" height="110"/>
+  </a>
+  <a href="https://www.credly.com/badges/e85ac946-6e4a-4a8f-90d2-21e8002b3bbc" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="110" height="110"/>
+  </a>
+  <a href="https://www.credly.com/badges/c9eaaa22-5afd-4378-b2e2-b8a6d2a480e8" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="110" height="110"/>
+  </a>
+</p>
+
+<h3 align="left">Kubernetes Certifications:</h3>
+<p align="left">
+  <a href="https://www.credly.com/badges/bbe1c1f8-df77-4116-bc0d-3323fa694f25" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="110" height="110"/>
+  </a>
+  <a href="https://www.credly.com/badges/d39fbe9b-dab8-4b56-a024-7f12f33427d0" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" width="110" height="110"/>
+  </a>
+</p>
+
+<h3 align="left">Training & Learning Badges:</h3>
+<p align="left">
+  <a href="https://www.credly.com/badges/abe0bdd5-c821-4f4a-9989-bd6b5ef80a13" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" alt="AWS Educate Getting Started with Security" width="110" height="110"/>
+  </a>
+  <a href="https://www.credly.com/badges/d1feb81d-4989-4649-a55a-90a20ca923b8" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/5d3f1b0e-b5f5-4764-b24e-34f0e17a2a6c/image.png" alt="AWS Educate Getting Started with Networking" width="110" height="110"/>
+  </a>
+  <a href="https://www.credly.com/badges/41d5699b-15a0-4449-b9d3-44d5ffa4abb4" target="_blank">
+    <img src="https://images.credly.com/size/110x110/images/9e2fa64b-f0e6-427e-94e6-b7c2b7f90616/image.png" alt="Networking Academy Learn-A-Thon 2024" width="110" height="110"/>
+  </a>
+</p>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafaerbay&show_icons=true&locale=en&layout=compact" alt="mustafaerbay" /></p> -->
 
@@ -12,11 +48,11 @@
 
 <div id="stats" align="center">
 
-  
-  <!-- [![Kaan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mustafaerbay&theme=dark&background=000000)](https://git.io/streak-stats) -->
- 
+
+  <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mustafaerbay&theme=dark&background=000000)](https://git.io/streak-stats) -->
+
   <!--![cp](https://user-images.githubusercontent.com/62032779/180623194-3f412a8f-a46e-4b5f-9b08-84c2f0be32e2.gif)-->
-  <!--[Kaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafaerbay&show_icons=true&theme=radical)-->
+  <!--[GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafaerbay&show_icons=true&theme=radical)-->
   
    ![1658786651527](https://user-images.githubusercontent.com/62032779/180881754-a722e2e6-596a-492d-b764-3ca41aedf544.jpg)
   
