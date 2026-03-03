@@ -32,13 +32,13 @@
 <h3 align="left">Training & Learning Badges:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/abe0bdd5-c821-4f4a-9989-bd6b5ef80a13" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png" alt="AWS Educate Getting Started with Security" width="110" height="110"/>
+    <img src="https://images.credly.com/size/110x110/images/fc6fa322-80f4-45a5-9def-91e9bcfde837/blob" alt="AWS Educate Getting Started with Security" width="110" height="110"/>
   </a>
   <a href="https://www.credly.com/badges/d1feb81d-4989-4649-a55a-90a20ca923b8" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/5d3f1b0e-b5f5-4764-b24e-34f0e17a2a6c/image.png" alt="AWS Educate Getting Started with Networking" width="110" height="110"/>
+    <img src="https://images.credly.com/size/110x110/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" alt="AWS Educate Getting Started with Networking" width="110" height="110"/>
   </a>
   <a href="https://www.credly.com/badges/41d5699b-15a0-4449-b9d3-44d5ffa4abb4" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/9e2fa64b-f0e6-427e-94e6-b7c2b7f90616/image.png" alt="Networking Academy Learn-A-Thon 2024" width="110" height="110"/>
+    <img src="https://images.credly.com/size/110x110/images/e360c3e0-4031-479b-ad7b-5ce878bc29d7/image.png" alt="Networking Academy Learn-A-Thon 2024" width="110" height="110"/>
   </a>
 </p>
 
